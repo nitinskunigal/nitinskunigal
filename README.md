@@ -23,7 +23,7 @@ My key project involved delivering a full-stack data solution — building a dat
 > End-to-End Project | Built in SQL Server (Medallion Architecture) | Dashboarded in Power BI  
 • Phase 1: Building the Modern Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
-• Phase 3: Building Dashboards & Visualizaing Insights in Power BI → Executive, Customer, Product Drillthrough
+• Phase 3: Building Dashboards & Visualizing Insights in Power BI → Executive, Customer, Product Drillthrough
 
 ### 🟡 [ValueFrenzy Business Analytics Project](https://github.com/nitinskunigal/ValueFrenzy-Business-Analytics)
 > Excel-Based Project | Retail-Focused | SWOT, Gap Analysis, Process Mapping  
