@@ -25,7 +25,7 @@ My key project involved delivering a full-stack data solution — building a dat
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
 • Phase 3: Building Dashboards & Visualizing Insights in Power BI → Executive, Customer, Product Drillthrough
 
-### 🟡 [ValueFrenzy Business Analytics Project](https://github.com/nitinskunigal/ValueFrenzy-Business-Analytics)
+### 🟡 [ValueFrenzy Business Analytics Project](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project)
 > Excel-Based Project | Retail-Focused | SWOT, Gap Analysis, Process Mapping  
 • Sales performance across 3 countries  
 • Dashboard with KPIs: Revenue, Profit, Transactions, ATV  
