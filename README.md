@@ -21,7 +21,7 @@ My key project involved delivering a full-stack data solution — building a dat
 
 ### 🔷 [SQL Data Warehouse & Analytics Project](https://github.com/nitinskunigal/SQL-Data-Warehouse-and-Analytics-Project)
 > End-to-End Project | Built in SQL Server (Medallion Architecture) | Dashboarded in Power BI  
-• Phase 1: Building the Modern Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
+• Phase 1: Building the Scalable Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
 • Phase 3: Building Dashboards & Visualizing Insights in Power BI → Executive, Customer, Product Drillthrough
 
