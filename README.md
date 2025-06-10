@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Aspiring Data Analyst | Former B2B Sales & Logistics Professional | SQL • Power BI • Excel • Data Warehousing
+  Aspiring Data Analyst | Former B2B Sales & Logistics (3PL) Professional | SQL • Power BI • Excel • Data Warehousing
 </p>
 
 ---
@@ -36,10 +36,10 @@ My key project involved delivering a full-stack data solution — building a dat
 ## 🧰 Tools & Techniques
 
 **Data Analytics & BI:** Power BI, Advanced Excel (Power Query, Power Pivot, DAX)  
-**Database & Querying:** SQL, SQL Server, T-SQL (CTEs, Window Functions), Views, Stored Procs  
+**Database & Querying:** SQL, SQL Server, T-SQL (Joins, CTEs, Subqueries, Window Functions), Views, Stored Procedures, Indexes  
 **ETL & Modeling:** Medallion Architecture, Data Cleansing, Truncate & Insert, Star Schema  
 **Docs & Version Control:** GitHub, draw.io, Notion  
-**Other Tools:** Word, PowerPoint, Outlook, JIRA
+**Other Tools:** Word, PowerPoint, Outlook, JIRA, Teams, WMS (3PL), Salesloft, HubSpot
 
 ---
 
