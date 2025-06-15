@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a career-switcher with 1.5 years in B2B sales and 3 years in logistics operations — now combining my industry experience with strong analytical skills to uncover actionable insights from data.
+I'm a career-switcher with 1.5 years in B2B sales and 3 years in third-party logistics operations — now combining my industry experience with strong analytical skills to uncover actionable insights from data.
 
 My key project involved delivering a full-stack data solution — building a data warehouse in SQL Server, performing advanced SQL analytics, and developing interactive dashboards in Power BI. Through this, I’ve developed a solid foundation in end-to-end data analytics, KPI tracking, data modeling, and business storytelling.
 
