@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn_Banner_Data_Analyst_5.png?raw=true" alt="Nitin Kunigal | Aspiring Data Analyst" />
+  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn_Banner_Data_Analyst_6.png?raw=true" alt="Nitin Kunigal | Aspiring Data Analyst" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a career-switcher with around 4 years of experience in third-party logistics operations (including B2B sales) — now combining my industry experience with strong analytical skills to uncover actionable insights from data.
+I'm a career-switcher with over 4 years of experience in third-party logistics operations (including sales) — now combining my industry experience with strong analytical skills to uncover actionable insights from data.
 
 My key project involved delivering a full-stack data solution — building a data warehouse in SQL Server, performing advanced SQL analytics, and developing interactive dashboards in Power BI. Through this, I’ve developed a solid foundation in end-to-end data analytics, KPI tracking, data modeling, and business storytelling.
 
