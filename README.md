@@ -4,14 +4,14 @@
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Aspiring Data Analyst | Former B2B Sales & Logistics (3PL) Professional | SQL • Power BI • Excel • Data Warehousing
+  Aspiring Data Analyst | Former Logistics (3PL) Professional | SQL • Power BI • Excel • Data Warehousing
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a career-switcher with 1.5 years in B2B sales and 3 years in third-party logistics operations — now combining my industry experience with strong analytical skills to uncover actionable insights from data.
+I'm a career-switcher with around 4 years of experience in third-party logistics operations (including B2B sales) — now combining my industry experience with strong analytical skills to uncover actionable insights from data.
 
 My key project involved delivering a full-stack data solution — building a data warehouse in SQL Server, performing advanced SQL analytics, and developing interactive dashboards in Power BI. Through this, I’ve developed a solid foundation in end-to-end data analytics, KPI tracking, data modeling, and business storytelling.
 
@@ -23,7 +23,7 @@ My key project involved delivering a full-stack data solution — building a dat
 > End-to-End Project | Built in SQL Server (Medallion Architecture) | Dashboarded in Power BI  
 • Phase 1: Building the Scalable Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
-• Phase 3: Building Dashboards & Visualizing Insights in Power BI → Executive, Customer, Product Drillthrough
+• Phase 3: Building Self-Service Dashboards & Visualizing Insights in Power BI → Executive, Customer, Product Drillthrough
 
 ### 🟡 [ValueFrenzy Business Analytics Project](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project)
 > Excel-Based Project | Retail-Focused | SWOT, Gap Analysis, Process Mapping  
@@ -39,7 +39,7 @@ My key project involved delivering a full-stack data solution — building a dat
 **Database & Querying:** SQL, SQL Server, T-SQL (Joins, CTEs, Subqueries, Window Functions), Views, Stored Procedures, Indexes  
 **ETL & Modeling:** Medallion Architecture, Data Cleansing, Truncate & Insert, Star Schema  
 **Docs & Version Control:** GitHub, draw.io, Notion  
-**Other Tools:** Word, PowerPoint, Outlook, JIRA, Teams, WMS (3PL), Salesloft, HubSpot
+**Other Tools & Skills:** Word, PowerPoint, Outlook, JIRA, Teams, WMS (3PL), n8n, SDLC, Agile Scrum
 
 ---
 
