@@ -25,27 +25,25 @@ My key project involved delivering a full-stack data solution — building a dat
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
 • Phase 3: Building Self-Service Dashboards & Visualizing Insights in Power BI → Executive, Customer, Product Drillthrough
 
+### 🟡 [AtliQ Global Business Insights 360 Project](https://github.com/nitinskunigal/AtliQ-Global-Business-Insights-360-Project)
+> Power BI Project | Consumer Electronics (Retail-Focused) | Stakeholder Mapping & Engagement | Requirements Gathering | Design & Development  
+• Designed and deployed 5 department-specific Power BI dashboards (Finance, Sales, Marketing, Supply Chain, and Executive View)  
+• Collaborated with cross-functional stakeholders to define 10+ KPIs   
+• Built wireframes, and iteratively refine dashboards using Agile-inspired sprint cycles.
+
 ### 🟡 [ValueFrenzy Business Analytics Project](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project)
 > Excel-Based Project | Retail-Focused | SWOT, Gap Analysis, Process Mapping  
 • Sales performance across 3 countries  
 • Dashboard with KPIs: Revenue, Profit, Transactions, ATV  
 • Insights on declining revenue and product tier trends
 
-### 🟡 [AtliQ Global Business Insights 360 Project](https://github.com/nitinskunigal/AtliQ-Global-Business-Insights-360-Project)
-> Power BI Project | Consumer Electronics (Retail-Focused) | Stakeholder Mapping & Engagement | Requirements Gathering | Design & Development  
-• Designed and deployed 5 department-specific Power BI dashboards (Finance, Sales, Marketing, Supply Chain, and Executive View)  
-• Collaborated with cross-functional stakeholders to define 5+ KPIs   
-• Built wireframes, and iteratively refine dashboards using Agile-inspired sprint cycles.
-
 ---
 
-## 🧰 Tools & Techniques
+## 🧰 Technical Skills
 
-**Data Analytics & BI:** Power BI, Advanced Excel (Power Query, Power Pivot, DAX)  
-**Database & Querying:** SQL, SQL Server, T-SQL (Joins, CTEs, Subqueries, Window Functions), Views, Stored Procedures, Indexes  
-**ETL & Modeling:** Medallion Architecture, Data Cleansing, Truncate & Insert, Star Schema  
-**Docs & Version Control:** GitHub, draw.io, Notion  
-**Other Tools & Skills:** Word, PowerPoint, Outlook, JIRA, Teams, WMS (3PL), n8n, SDLC, Agile Scrum
+**Data Analytics & BI:** Power BI, Advanced Excel (Power Query, Power Pivot, DAX), Data Visualization  
+**Database & Query Language:** SQL, SQL Server, T-SQL, ETL, OLTP, OLAP, Date Warehouse, Data Cleaning, Data Modeling  
+**Other Tools & Skills:** GitHub, draw.io, Notion, JIRA, Teams, MS Office Suite, WMS (3PL), n8n, SDLC, Agile Scrum
 
 ---
 
