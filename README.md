@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Aspiring Data Analyst | Former Logistics (3PL) Professional | SQL • Power BI • Excel • Data Warehousing
+  Aspiring Data Analyst | Former Supply Chain & Logistics (3PL) Professional | SQL • Power BI • Excel • Data Warehousing
 </p>
 
 ---
