@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn_Banner_Data_Analyst_8.png?raw=true" alt="Nitin Kunigal | Aspiring Data Analyst" />
+  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn_Banner_Data_Analyst_9.png?raw=true" alt="Nitin Kunigal | Aspiring Data Analyst" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
