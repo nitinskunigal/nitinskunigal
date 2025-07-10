@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn_Banner_Data_Analyst_12.png?raw=true" alt="Nitin Kunigal | Aspiring Data Analyst" />
+  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn_Banner_Data_Analyst_13.png?raw=true" alt="Nitin Kunigal | Aspiring Data Analyst" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Data Analyst | Former Supply Chain & Logistics (3PL) Professional | SQL • Power BI • Excel • Data Warehousing
+  Data Analyst | Problem Solver | Former Supply Chain & Logistics (3PL) Professional | SQL • Power BI • Excel • Data Warehousing
 </p>
 
 ---
