@@ -22,22 +22,22 @@ There's a kind of misconception that internships are meant only for students and
 ## 💼 Featured Projects
 
 ### [SQL Data Warehouse & Analytics Project](https://github.com/nitinskunigal/SQL-Data-Warehouse-and-Analytics-Project)
-> End-to-End Project | Retail-Focused | Built in SQL Server (Medallion Architecture) | Dashboarded in Power BI  
+> End-to-End Project | Retail-Focused | Requirements Gathering | Built Data Warehouse in SQL Server (Medallion Architecture) | Dashboards in Power BI  
 • Phase 1: Building the Scalable Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
 • Phase 3: Building Self-Service Dashboards & Visualizing Insights in Power BI → Executive, Customer, Product Drillthrough
 
-### [AtliQ Global Business Insights 360 Project](https://github.com/nitinskunigal/AtliQ-Global-Business-Insights-360-Project)
-> Power BI Project | Consumer Electronics (Retail-Focused) | Stakeholder Mapping & Engagement | Requirements Gathering | Design & Development  
-• Designed and deployed 5 department-specific Power BI dashboards (Finance, Sales, Marketing, Supply Chain, and Executive View)  
-• Collaborated with cross-functional stakeholders to define 5+ KPIs   
-• Built wireframes, and iteratively refined dashboards using Agile-inspired sprint cycles.
-
 ### [ValueFrenzy Business Analytics Project](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project)
-> Excel-Based Project | Retail-Focused | SWOT, Gap Analysis, Process Mapping  
+> Excel-Based Project | Retail-Focused | Stakeholder Mapping & Engagement | SWOT, Gap Analysis, Process Mapping  
 • Sales performance across 3 countries  
 • Dashboard with KPIs: Revenue, Profit, Transactions, ATV  
 • Insights on declining revenue and product tier trends
+
+### [AtliQ Global Business Insights 360 Project](https://github.com/nitinskunigal/AtliQ-Global-Business-Insights-360-Project)
+> Power BI Project | Consumer Electronics (Retail-Focused) | Stakeholder Mapping & Engagement | Dashboard Wireframing (Design) & Development  
+• Designed and deployed 5 department-specific Power BI dashboards (Finance, Sales, Marketing, Supply Chain, and Executive View)  
+• Collaborated with cross-functional stakeholders to define 5+ KPIs   
+• Built wireframes, and iteratively refined dashboards using Agile-inspired sprint cycles.
 
 ---
 
