@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Data Analyst | Problem Solver | Former Supply Chain & Logistics (3PL) Professional | SQL • Power BI • Excel • Data Warehousing
+  Data Analyst | BI Analyst | Problem Solver | Former Supply Chain & Logistics (3PL) Professional | SQL • Power BI • Advanced Excel • Data Warehousing
 </p>
 
 ---
@@ -30,8 +30,8 @@ There's a kind of misconception that internships are meant only for students and
 ### [AtliQ Global Business Insights 360 Project](https://github.com/nitinskunigal/AtliQ-Global-Business-Insights-360-Project)
 > Power BI Project | Consumer Electronics (Retail-Focused) | Stakeholder Mapping & Engagement | Requirements Gathering | Design & Development  
 • Designed and deployed 5 department-specific Power BI dashboards (Finance, Sales, Marketing, Supply Chain, and Executive View)  
-• Collaborated with cross-functional stakeholders to define 10+ KPIs   
-• Built wireframes, and iteratively refine dashboards using Agile-inspired sprint cycles.
+• Collaborated with cross-functional stakeholders to define 5+ KPIs   
+• Built wireframes, and iteratively refined dashboards using Agile-inspired sprint cycles.
 
 ### [ValueFrenzy Business Analytics Project](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project)
 > Excel-Based Project | Retail-Focused | SWOT, Gap Analysis, Process Mapping  
