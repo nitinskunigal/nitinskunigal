@@ -22,7 +22,7 @@ There's a kind of misconception that internships are meant only for students and
 ## 💼 Featured Projects
 
 ### [SQL Data Warehouse & Analytics Project](https://github.com/nitinskunigal/SQL-Data-Warehouse-and-Analytics-Project)
-> End-to-End Project | Retail-Focused | Requirements Gathering | Built 3-Layer Data Warehouse in SQL Server | Dashboards in Power BI  
+> End-to-End Project | Retail-Focused | Requirements Gathering | 3-Layer Data Warehouse in SQL Server | Dashboards in Power BI  
 • Phase 1: Building the Scalable Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
 • Phase 3: Building Self-Service Dashboards & Visualizing Insights in Power BI → Executive, Customer, Product Drillthrough
