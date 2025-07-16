@@ -15,7 +15,7 @@ I'm a career-switcher with over 4 years of experience in third-party logistics o
 
 My key simulated project involves delivering a full-stack data solution — building a data warehouse in SQL Server, performing advanced SQL analytics, and developing interactive dashboards in Power BI. Through this, I’ve developed a solid foundation in end-to-end data analytics, KPI tracking, data modeling, and business storytelling. 
 
-There's a kind of misconception that internships are meant only for students and recent graduates. However, I believe in the fact that genuine internships are worth gold for career switchers too! So, I'm looking forward to gaining more exposure through internship!
+While internships are often seen as student-focused, I see them as a smart stepping stone for committed career switchers like me. So whether it’s an entry-level role or a meaningful internship, I’d love to be considered and contribute where it matters.
 
 ---
 
@@ -25,9 +25,9 @@ There's a kind of misconception that internships are meant only for students and
 > End-to-End Project | Retail-Focused | Requirements Gathering | 3-Layer Data Warehouse in SQL Server | Dashboards in Power BI  
 • Phase 1: Building the Scalable Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
-• Phase 3: Building Self-Service Dashboards & Visualizing Insights in Power BI → Executive, Customer, Product Drillthrough
+• Phase 3: Connecting Power BI to Data Warehouse and building Reports → Executive, Customer, Product Drillthrough
 
-### [ValueFrenzy Business Analytics Project](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project)
+### [ValueFrenzy Business Data Analytics Project](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project)
 > Excel-Based Project | Retail-Focused | Stakeholder Mapping & Engagement | SWOT, Gap Analysis, Process Mapping  
 • Sales performance across 3 countries  
 • Dashboard with KPIs: Revenue, Profit, Transactions, ATV  
