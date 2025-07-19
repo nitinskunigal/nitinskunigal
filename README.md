@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn_Banner_Data_Analyst_14.png?raw=true" alt="Nitin Kunigal | Aspiring Data Analyst" />
+  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn_Banner_Data_Analyst_15.png?raw=true" alt="Nitin Kunigal | Aspiring Data Analyst" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Data Analyst | BI Analyst | Problem Solver | Former Supply Chain & Logistics (3PL) Professional | SQL • Power BI • Advanced Excel • Data Warehousing
+  Problem Solver | BI Analyst | Data Analyst | Former 3PL Supply Chain Professional | SQL • Power BI • Advanced Excel • Data Warehousing
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a career-switcher with over 4 years of experience in third-party logistics operations — now combining my industry experience with strong analytical skills to uncover actionable insights from data.
+Hi there! Welcome to my GitHub World! I'm Nitin Kunigal, an aspiring data analyst with a strong foundation in KPI tracking, operational reporting, and performance analysis within 3PL Supply Chain — now combining my industry experience with strong analytical skills to uncover actionable insights from data.
 
-My key simulated project involves delivering a full-stack data solution — building a data warehouse in SQL Server, performing advanced SQL analytics, and developing interactive dashboards in Power BI. Through this, I’ve developed a solid foundation in end-to-end data analytics, KPI tracking, data modeling, and business storytelling. 
+Recently, I completed a full-stack Business Intelligence (BI) project — from designing a data warehouse, performing ETL, and analyzing business data in SQL Server to developing dashboards in Power BI. Basically, this project simulates a full-stack BI initiative for a mid-sized retail company, covering the end-to-end pipeline from raw data ingestion to actionable insights via dashboards. 
 
 While internships are often seen as student-focused, I see them as a smart stepping stone for committed career switchers like me. So whether it’s an entry-level role or a meaningful internship, I’d love to be considered and contribute where it matters.
 
@@ -21,8 +21,8 @@ While internships are often seen as student-focused, I see them as a smart stepp
 
 ## 💼 Featured Projects
 
-### [SQL Data Warehouse & Analytics Project](https://github.com/nitinskunigal/SQL-Data-Warehouse-and-Analytics-Project)
-> End-to-End Project | Retail-Focused | Requirements Gathering | 3-Layer Data Warehouse in SQL Server | Dashboards in Power BI  
+### [Full-Stack Business Intelligence (BI) Project: SQL Data Warehouse & Analytics](https://github.com/nitinskunigal/Full-Stack-Business-Intelligence-Project)
+> Full-Stack BI Project | Retail-Focused | Requirements Gathering | 3-Layer Data Warehouse in SQL Server | Dashboards in Power BI  
 • Phase 1: Building the Scalable Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
 • Phase 3: Connecting Power BI to Data Warehouse and building Reports → Executive, Customer, Product Drillthrough
