@@ -17,23 +17,31 @@ Recently, I completed a full-stack Business Intelligence (BI) project — from d
 
 Basically, I bring a business-first mindset — understanding how analytics ties into real-world decisions, costs, performance, and growth of an organization.
 
+Here's the Link to my [Value Proposition Video](https://share.vidyard.com/watch/651WB22fiPUPS7dkpqUXMw)
+
 ---
 
 ## 💼 Featured Projects
 
-### [Full-Stack Business Intelligence (BI) Project: SQL Data Warehouse & Analytics](https://github.com/nitinskunigal/Full-Stack-Business-Intelligence-Project)
+[![BI Project](https://img.shields.io/badge/Full%20Stack%20Business%20Intelligence%20(BI)%20Project:%20SQL%20Data%20Warehouse%20&%20Analytics-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Full-Stack-Business-Intelligence-Project)
+
+[Project Presentation](https://www.youtube.com/watch?v=Kspob_lGIaA&t=429s) | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDdlNTViNmItZDZkNC00N2FkLWE2N2EtYzdjOWZkOGIwNTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 > Full-Stack BI Project | Retail-Focused | Requirements Gathering | 3-Layer Data Warehouse in SQL Server | Dashboards in Power BI  
 • Phase 1: Building the Scalable Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
 • Phase 3: Connecting Power BI to Data Warehouse and building Reports → Executive, Customer, Product Drillthrough
 
-### [ValueFrenzy Business Data Analytics Project](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project)
+[![Data Analytics Project](https://img.shields.io/badge/ValueFrenzy%20Business%20Data%20Analytics%20Project-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project)
+
+[Project Presentation](https://www.youtube.com/watch?v=Az6ufdAVnsk) | [Dashboard Walkthrough](https://www.youtube.com/watch?v=qS3CEB98nJw)
 > Excel-Based Project | Retail-Focused | Stakeholder Mapping & Engagement | SWOT, Gap Analysis, Process Mapping  
 • Sales performance across 3 countries  
 • Dashboard with KPIs: Revenue, Profit, Transactions, ATV  
 • Insights on declining revenue and product tier trends
 
-### [AtliQ Global Business Insights 360 Project](https://github.com/nitinskunigal/AtliQ-Global-Business-Insights-360-Project)
+[![Business Insights 360 Project](https://img.shields.io/badge/AtliQ%20Global%20Business%20Insights%20360%20Project-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/AtliQ-Global-Business-Insights-360-Project)
+
+[Project Presentation](https://vimeo.com/1056727233/176f40873a?ts=0&share=copy) | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDJmZjFlODUtZDNkZi00OGZmLThiYTgtYzE1ZWFjZTcxNTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 > Power BI Project | Consumer Electronics (Retail-Focused) | Stakeholder Mapping & Engagement | Dashboard Design & Development  
 • Designed and deployed 5 department-specific Power BI dashboards (Finance, Sales, Marketing, Supply Chain, and Executive View)  
 • Collaborated with cross-functional stakeholders to define 5+ KPIs   
@@ -43,19 +51,54 @@ Basically, I bring a business-first mindset — understanding how analytics ties
 
 ## 🧰 Technical Skills
 
-**Data Analytics & BI:** Power BI, Advanced Excel (Power Query, Power Pivot, DAX), Data Visualization  
-**Database & Query Language:** SQL, SQL Server, T-SQL, ETL, OLTP, OLAP, Date Warehouse, Data Cleaning, Data Modeling  
-**Other Tools & Skills:** GitHub, draw.io, Notion, JIRA, Teams, MS Office Suite, WMS (3PL), n8n, SDLC, Agile Scrum
+**Data Analytics & BI:** Power BI, Advanced Excel (Power Query, Data Modeling, DAX), Data Visualization  
+**Databases & Data Engineering:** SQL, SQL Server, MySQL, Azure Data Factory, ETL, OLTP, OLAP, Date Warehouse, Data Cleaning  
+**Project Management Tools & Skills:** GitHub, draw.io, Notion, JIRA, Teams, MS Office Suite, WMS (3PL), n8n, SDLC, Agile Scrum
 
 ---
 
-## 📫 Let’s Connect
+## 📝 Featured LinkedIn Posts & Articles  
 
-- 📧 [nitinkunigal@gmail.com](mailto:nitinkunigal@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nitinskunigal/)  
-- 🌐 [GitHub Portfolio](https://github.com/nitinskunigal)  
-- 📍 Bangalore, India
+Here are a few of my favorite LinkedIn posts and reflections across Data Analytics, Business Analysis, Agile, and Career Growth:  
+
+[![Assertive Communication](https://img.shields.io/badge/Assertive%20Communication%3A%20The%20Secret%20to%20Workplace%20Harmony-0A66C2?style=for-the-badge)](https://www.linkedin.com/posts/nitinkunigal_careergrowth-professionalskills-workplacetips-activity-7271759917437403136-lbyN/)  
+Assertiveness isn’t about being loud — it’s about expressing ideas confidently while respecting others. A must-have for Analysts working with stakeholders.  
+
+[![BA vs. Business Analytics](https://img.shields.io/badge/Business%20Analysis%20vs.%20Analytics%3A%20Busting%20Myths-0A66C2?style=for-the-badge)](https://www.linkedin.com/posts/nitinkunigal_businessanalysis-businessanalyst-businessanalytics-activity-7269922177758453762-I05c/)  
+Breaking down the difference: Business Analysts as bridge-builders vs. Analytics professionals as data storytellers.  
+
+[![Great Requirements](https://img.shields.io/badge/The%20Secret%20Behind%20Great%20Requirements-0A66C2?style=for-the-badge)](https://www.linkedin.com/posts/nitinkunigal_projectmanagement-requirements-requirementsgathering-activity-7313137221874733057-Eym8/)  
+Requirements aren’t just lists. They capture the **why, who, what, and how** behind any solution.  
+
+[![Aligning KPIs](https://img.shields.io/badge/Aligning%20KPIs%20with%20Strategy%3A%20Proven%20Practices-0A66C2?style=for-the-badge)](https://www.linkedin.com/posts/nitinkunigal_aligning-kpis-with-strategy-for-business-activity-7263549023473614848-IAf_/)  
+KPIs should tell your organization’s story, not just track numbers. Here’s how to connect them with strategy.  
+
+[![3 Levels of BA](https://img.shields.io/badge/The%203%20Levels%20of%20Business%20Analysis-0A66C2?style=for-the-badge)](https://www.linkedin.com/posts/nitinkunigal_businessanalysis-businessanalyst-strategy-activity-7305201736426663936-NJS3/)  
+Business analysis happens at three levels — linking goals, execution, and delivery.  
+
+[![Power BI Modes](https://img.shields.io/badge/Storage%20%26%20Connection%20Modes%20in%20Power%20BI-0A66C2?style=for-the-badge)](https://www.linkedin.com/pulse/storage-connection-modes-power-bi-comprehensive-guide-nitin-kunigal-bf4re/)  
+Import, DirectQuery, or Live Connection? A practical guide to when and why to use each mode.  
+
+[![Explaining Projects](https://img.shields.io/badge/How%20to%20Explain%20a%20Data%20Analytics%20Project%20in%20Interviews-0A66C2?style=for-the-badge)](https://www.linkedin.com/posts/nitinkunigal_dataanalytics-interviewtips-careergrowth-activity-7303287179810619392-4mSu/)  
+Going beyond steps: How to tell a **story** about your project that highlights business impact.  
+
+[![Agile Scrum](https://img.shields.io/badge/Agile%20Scrum%3A%20It’s%20a%20Framework%2C%20Not%20a%20Methodology-0A66C2?style=for-the-badge)](https://www.linkedin.com/posts/nitinkunigal_agile-scrum-agilescrum-activity-7282623880085553152-An6u/)  
+Scrum isn’t a recipe book — it’s a flexible framework designed for value delivery and adaptability.  
+
+[![Job Search = Prospecting](https://img.shields.io/badge/Job%20Search%20%3D%20Outbound%20Sales%20Prospecting%3F-0A66C2?style=for-the-badge)](https://www.linkedin.com/posts/nitinkunigal_jobsearch-jobsearchstrategies-jobsearchtips-activity-7278036746573910019-z63q/)  
+Job search = sales prospecting. Think of your **Ideal Employer Profile (IEP)** just like an ICP in sales.  
+
+[![Pattern Interrupt](https://img.shields.io/badge/Break%20the%20Interview%20Routine%20with%20Pattern%20Interrupt-0A66C2?style=for-the-badge)](https://www.linkedin.com/posts/nitinkunigal_jobinterviews-careertips-interviewtips-activity-7284532656103424000-KgA2/)  
+Make interviews memorable by treating them as discovery conversations, not one-way Q&As.  
 
 ---
 
-_Thanks for visiting! Always happy to connect with fellow data enthusiasts and recruiters._
+## 🤝 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinskunigal/)  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinkunigal@gmail.com)  
+
+---
+
+_Thanks for visiting! Always happy to connect with fellow data enthusiasts, including recruiters and hiring managers._
