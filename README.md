@@ -23,21 +23,21 @@ Here's the Link to my [Value Proposition Video](https://share.vidyard.com/watch/
 
 ## 💼 Featured Projects
 
-[![BI Project](https://img.shields.io/badge/Full%20Stack%20Business%20Intelligence%20(BI)%20Project:%20SQL%20Data%20Warehouse%20&%20Analytics-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Full-Stack-Business-Intelligence-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Kspob_lGIaA&t=429s) [![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiNDdlNTViNmItZDZkNC00N2FkLWE2N2EtYzdjOWZkOGIwNTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[![BI Project](https://img.shields.io/badge/Full%20Stack%20Business%20Intelligence:%20SQL%20Data%20Warehouse%20&%20Analytics-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Full-Stack-Business-Intelligence-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Kspob_lGIaA&t=429s) [![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiNDdlNTViNmItZDZkNC00N2FkLWE2N2EtYzdjOWZkOGIwNTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 > Full-Stack BI Project | Retail-Focused | Requirements Gathering | 3-Layer Data Warehouse in SQL Server | Dashboards in Power BI  
 • Phase 1: Building the Scalable Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
 • Phase 3: Connecting Power BI to Data Warehouse and building Reports → Executive, Customer, Product Drillthrough
 
-[![Data Analytics Project](https://img.shields.io/badge/ValueFrenzy%20Business%20Data%20Analytics%20Project-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Az6ufdAVnsk) [![Dashboard Walkthrough](https://img.shields.io/badge/Dashboard%20Walkthrough-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=qS3CEB98nJw)
+[![Data Analytics Project](https://img.shields.io/badge/ValueFrenzy%20Business%20Data%20Analytics-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Az6ufdAVnsk) [![Dashboard Walkthrough](https://img.shields.io/badge/Dashboard%20Walkthrough-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=qS3CEB98nJw)
 
 > Excel-Based Project | Retail-Focused | Stakeholder Mapping & Engagement | SWOT, Gap Analysis, Process Mapping  
 • Sales performance across 3 countries  
 • Dashboard with KPIs: Revenue, Profit, Transactions, ATV  
 • Insights on declining revenue and product tier trends
 
-[![Business Insights 360 Project](https://img.shields.io/badge/AtliQ%20Global%20Business%20Insights%20360%20Project-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/AtliQ-Global-Business-Insights-360-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://vimeo.com/1056727233/176f40873a?ts=0&share=copy) [![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiZDJmZjFlODUtZDNkZi00OGZmLThiYTgtYzE1ZWFjZTcxNTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[![Business Insights 360 Project](https://img.shields.io/badge/AtliQ%20Global%20Business%20Insights%20360-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/AtliQ-Global-Business-Insights-360-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://vimeo.com/1056727233/176f40873a?ts=0&share=copy) [![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiZDJmZjFlODUtZDNkZi00OGZmLThiYTgtYzE1ZWFjZTcxNTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 > Power BI Project | Consumer Electronics (Retail-Focused) | Stakeholder Mapping & Engagement | Dashboard Design & Development  
 • Designed and deployed 5 department-specific Power BI dashboards (Finance, Sales, Marketing, Supply Chain, and Executive View)  
