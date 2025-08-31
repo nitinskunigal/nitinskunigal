@@ -92,7 +92,7 @@ Here are a few of my favorite LinkedIn posts and reflections across Data Analyti
 
 ## 🤝 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinskunigal/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinkunigal/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinkunigal@gmail.com)  
 
 ---
