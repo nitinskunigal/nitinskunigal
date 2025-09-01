@@ -4,14 +4,14 @@
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Problem Solver | BI Analyst | Data Analyst | Former 3PL (Supply Chain) Professional | SQL • Power BI • Advanced Excel • Data Warehousing
+  Problem Solver | Business Data Analyst | BI Analyst | Former 3PL (Supply Chain) Professional | SQL • Power BI • Advanced Excel • Data Warehousing
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi there! Welcome to my GitHub World! I'm Nitin Kunigal, an aspiring data analyst with a strong foundation in KPI tracking, operational reporting, and performance analysis within 3PL Supply Chain — now combining my industry experience with strong analytical skills to uncover actionable insights from data.
+Hi there! Welcome to my GitHub World! I'm Nitin Kunigal, an aspiring data/ BI analyst with a strong foundation in KPI tracking, operational reporting, and performance analysis within 3PL Supply Chain — now combining my industry experience with strong analytical skills to uncover actionable insights from data.
 
 Recently, I completed a full-stack Business Intelligence (BI) project — from designing a data warehouse, automating ETL workflows, and performing advanced analytics in SQL Server to developing interactive dashboards in Power BI. 
 
