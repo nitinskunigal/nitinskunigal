@@ -30,27 +30,26 @@ Here's the Link to my [Value Proposition Video](https://share.vidyard.com/watch/
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
 • Phase 3: Connecting Power BI to Data Warehouse and building Reports → Executive, Customer, Product Drillthrough
 
-[![Data Analytics Project](https://img.shields.io/badge/ValueFrenzy%20Business%20Data%20Analytics-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Az6ufdAVnsk) [![Dashboard Walkthrough](https://img.shields.io/badge/Dashboard%20Walkthrough-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=qS3CEB98nJw)
+[![Data Analytics Project](https://img.shields.io/badge/ValueFrenzy%20Data%20Analytics-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Az6ufdAVnsk) [![Dashboard Walkthrough](https://img.shields.io/badge/Dashboard%20Walkthrough-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=qS3CEB98nJw)
 
 > Excel-Based Project | Retail-Focused | Stakeholder Mapping & Engagement | SWOT, Gap Analysis, Process Mapping  
 • Sales performance across 3 countries  
 • Dashboard with KPIs: Revenue, Profit, Transactions, ATV  
 • Insights on declining revenue and product tier trends
 
-[![Business Insights 360 Project](https://img.shields.io/badge/AtliQ%20Global%20Business%20Insights%20360-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/AtliQ-Global-Business-Insights-360-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://vimeo.com/1056727233/176f40873a?ts=0&share=copy) [![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiZDJmZjFlODUtZDNkZi00OGZmLThiYTgtYzE1ZWFjZTcxNTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[![Business Analysis Case Study](https://img.shields.io/badge/Business%20Analysis%20Case%20Study:%20Sales%20Lead%20Management%20System-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-for-V-Cosmetics) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=kHIYMB-38PA) 
 
-> Power BI Project | Consumer Electronics (Retail-Focused) | Stakeholder Mapping & Engagement | Dashboard Design & Development  
-• Designed and deployed 5 department-specific Power BI dashboards (Finance, Sales, Marketing, Supply Chain, and Executive View)  
-• Collaborated with cross-functional stakeholders to define 5+ KPIs   
-• Built wireframes, and iteratively refined dashboards using Agile-inspired sprint cycles.
+> BA Case-Study | Retail-Focused | Requirements Gathering | User Stories, Use Case Diagrams, Process Flow Diagrams, Wireframes  
+• The case Study is about addressing the challenges faced by V-Cosmetics' sales teams and proposing a strategic solution (Lead Management System) accordingly.  
+• The proposed solution aims to streamline lead management, automate activity tracking, and enhance visibility across sales operations.  
 
 ---
 
 ## 🧰 Technical Skills
 
-**Data Analytics & BI:** Power BI, Advanced Excel (Power Query, Data Modeling, DAX), Data Visualization  
+**Data Analysis & BI:** Power BI, Advanced Excel (Power Query, Data Modeling, DAX), Data Visualization  
 **Databases & Data Engineering:** SQL, SQL Server, MySQL, Azure Data Factory, ETL, OLTP, OLAP, Date Warehouse, Data Cleaning  
-**Project Management Tools & Skills:** GitHub, draw.io, Notion, JIRA, Teams, MS Office Suite, WMS (3PL), n8n, SDLC, Agile Scrum
+**Other Tools & Skills:** GitHub, draw.io, Figma, Notion, JIRA, Teams, MS Office Suite, WMS (3PL), n8n, SDLC, Agile Scrum
 
 ---
 
