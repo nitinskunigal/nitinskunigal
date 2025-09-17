@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Problem Solver | Business Data Analyst | End-to-End Understanding of Business Intelligence Project Delivery and Business Analysis | SQL, Power BI, Advanced Excel, JIRA | Former 3PL (Supply Chain) Professional
+  Problem Solver | Business Data Analyst | End-to-End Understanding of Business Data Analytics (Data Analysis + Business Analysis) | SQL, Power BI, Advanced Excel, JIRA | Former 3PL (Supply Chain) Professional
 </p>
 
 ---
