@@ -4,18 +4,40 @@
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Problem Solver | Business Data Analyst | End-to-End Understanding of Business Data Analytics (Data Analysis + Business Analysis) | SQL, Power BI, Advanced Excel, JIRA | Former 3PL (Supply Chain) Professional
+  Problem Solver | Business Data Analyst | SQL, Power BI, Advanced Excel, JIRA | End-to-End Understanding of Key Impacts of Business Analysis in Data Analytics Projects | Former 3PL (Supply Chain) Professional | PMP Certified
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I'm Nitin Kunigal and welcome to my GitHub World! I bring in a unique combination of data analysis and business analysis skills. After working closely with operations teams in the 3PL supply chain domain, I saw firsthand how disconnected systems, manual reports, and unclear KPIs slow down decision-making. That sparked my interest in data & business analysis and my transition into business data analytics.  
+Hi there! I'm Nitin Kunigal and welcome to my GitHub World! I bring in a unique combination of data analysis and business analysis skills. After working closely with operations teams in the 3PL supply chain domain, I saw firsthand how disconnected systems, manual reports, and unclear KPIs slow down decision-making. That sparked my interest in data & business analysis and my transition into business data analytics.
 
-I demonstrate an End-to-end understanding of what the business problem is, how project requirements are elicited from business stakeholders, how requirements are broken down into user stories, how to zero-in on specific KPIs, how data is ingested & integrated, how data is prepared & analyzed, how data workflows are automated, how to communicate complex insights using compelling dashboards & reports, and finally, how to engage with stakeholders to ensure that the insights generated through data analysis are effectively integrated into decision-making processes.
+I demonstrate an End-to-end understanding of how business analysis impacts data analytics projects: 
+ 
+- what the business need (problem/ opportunity) is,
+- Understanding who the stakeholders (technical & non-technical) are and their expectations,
+- how project requirements are elicited from them,
+- how requirements are broken down into user stories,
+- how to zero-in on specific KPIs,
+- how to understand data sources,
+- how data is ingested & integrated,
+- how data is prepared & analyzed,
+- how data workflows are automated,
+- how to communicate complex insights using dashboards & reports, and finally,
+- how to engage stakeholders iteratively at every stage of the project and ensure that the insights generated are effectively integrated into decision-making processes.
 
-Recently, I completed a full-stack Business Intelligence (BI) project — from designing a data warehouse, automating ETL workflows, and performing advanced analytics in SQL Server to developing interactive dashboards in Power BI. 
+𝗪𝗵𝗮𝘁 𝗜 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲
+
+- what the business need (problem/ opportunity) is
+- Tech stack: SQL, Power BI, Advanced Excel (Power Query, PivotTables, PowerPivot, etc.), JIRA, Draw.io
+- Structured problem-solving with a KPI-first mindset
+- Exposure to Agile (Scrum, Kanban), SDLC
+- End-to-end understanding of stakeholder management process
+- Skilled in process mapping, requirements documentation, Data Cleaning, Data Modeling, and KPI-driven storytelling.
+- A commitment to clean, reusable, well-documented work
+
+𝗠𝘆 𝗿𝗲𝗰𝗲𝗻𝘁 𝗽𝗿𝗼𝗷𝗲𝗰𝘁: An end-to-end Business Intelligence (BI) solution for a fictional mid-size retail company with fragmented CRM and ERP systems. The project ranged from designing a data warehouse (Medallion Architecture in SQL Server) and automating ETL workflows to performing advanced SQL analytics and developing interactive Power BI dashboards.  
 
 Basically, I bring a business-first mindset — understanding how analytics ties into real-world decisions, costs, performance, and growth of an organization.
 
