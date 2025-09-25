@@ -29,7 +29,6 @@ I demonstrate an End-to-end understanding of how business analysis impacts data 
 
 𝗪𝗵𝗮𝘁 𝗜 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲
 
-- what the business need (problem/ opportunity) is
 - Tech stack: SQL, Power BI, Advanced Excel (Power Query, PivotTables, PowerPivot, etc.), JIRA, Draw.io
 - Structured problem-solving with a KPI-first mindset
 - Exposure to Agile (Scrum, Kanban), SDLC
