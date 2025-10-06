@@ -46,21 +46,21 @@ Here's the Link to my [Value Proposition Video](https://share.vidyard.com/watch/
 
 ## 💼 Featured Projects
 
-[![BI Project](https://img.shields.io/badge/Full%20Stack%20Business%20Intelligence:%20SQL%20Data%20Warehouse%20&%20Analytics-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Full-Stack-Business-Intelligence-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Kspob_lGIaA&t=429s) [![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiNDdlNTViNmItZDZkNC00N2FkLWE2N2EtYzdjOWZkOGIwNTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[![BI Project](https://img.shields.io/badge/Full%20Stack%20Business%20Intelligence%20for%20Retail%20Sales-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Full-Stack-Business-Intelligence-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Kspob_lGIaA&t=429s) [![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiNDdlNTViNmItZDZkNC00N2FkLWE2N2EtYzdjOWZkOGIwNTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 > Full-Stack BI Project | Retail-Focused | Requirements Gathering | 3-Layer Data Warehouse in SQL Server | Dashboards in Power BI  
 • Phase 1: Building the Scalable Data Warehouse in SQL Server → Bronze, Silver, Gold Layers  
 • Phase 2: EDA and Advanced Data Analytics in SQL Server → 17K+ customers, $29M revenue  
 • Phase 3: Connecting Power BI to Data Warehouse and building Reports → Executive, Customer, Product Drillthrough
 
-[![Data Analytics Project](https://img.shields.io/badge/ValueFrenzy%20Data%20Analytics-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Az6ufdAVnsk) [![Dashboard Walkthrough](https://img.shields.io/badge/Dashboard%20Walkthrough-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=qS3CEB98nJw)
+[![Data Analytics Project](https://img.shields.io/badge/Sales%20&%20Revenue%20Growth%20Analysis%20for%20ValueFrenzy-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Az6ufdAVnsk) [![Dashboard Walkthrough](https://img.shields.io/badge/Dashboard%20Walkthrough-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=qS3CEB98nJw)
 
 > Excel-Based Project | Retail-Focused | Stakeholder Mapping & Engagement | SWOT, Gap Analysis, Process Mapping  
 • Sales performance across 3 countries  
 • Dashboard with KPIs: Revenue, Profit, Transactions, ATV  
 • Insights on declining revenue and product tier trends
 
-[![Business Analysis Case Study](https://img.shields.io/badge/Business%20Analysis%20Case%20Study:%20Sales%20Lead%20Management%20System-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-for-V-Cosmetics) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=kHIYMB-38PA) 
+[![Business Analysis Case Study](https://img.shields.io/badge/Sales%20Lead%20Management%20System:%20A%20Business%20Analysis%20Case%20Study-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-for-V-Cosmetics) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=kHIYMB-38PA) 
 
 > BA Case-Study | Retail-Focused | Requirements Gathering | User Stories, Use Case Diagrams, Process Flow Diagrams, Wireframes  
 • The case Study is about addressing the challenges faced by V-Cosmetics' sales teams and proposing a strategic solution (Lead Management System) accordingly.  
