@@ -29,7 +29,7 @@ Here's the Link to my [Value Proposition Video](https://share.vidyard.com/watch/
 
 ## 💼 Featured Projects
 
-[![Business Analysis Project](https://img.shields.io/badge/Inventory%20Operations%20Enhancement:%20A%20Business%20Analysis%20Initiative-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-A-Business-Analysis-Initiative) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Az6ufdAVnsk) [![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiZmRmNGRhOGEtN2IyNi00ZWNjLTkxN2YtMmYyMzJhNzNhN2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[![Business Analysis Project](https://img.shields.io/badge/Inventory%20Operations%20Enhancement:%20A%20BA%20Initiative-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-A-Business-Analysis-Initiative) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Az6ufdAVnsk) [![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiZmRmNGRhOGEtN2IyNi00ZWNjLTkxN2YtMmYyMzJhNzNhN2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Simulated e-Retailer | Connecting Business Analysis and Data Analysis | Gap Analysis, Process Mapping  
 • Core Objective: Eliminate execution gaps between physical inventory movement and system records.  
