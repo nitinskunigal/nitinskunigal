@@ -100,4 +100,4 @@ Here are a few of my favorite LinkedIn posts and reflections across Data Analyti
 
 ---
 
-_Thanks for visiting! Always happy to connect with fellow data enthusiasts, including recruiters and hiring managers._
+_Thanks for visiting! Always happy to connect with fellow business analysis and supply chain & logistics enthusiasts, including recruiters and hiring managers._
