@@ -59,7 +59,7 @@ Data Pipeline orchestration is setup and Power BI connects directly to the Gold 
 
 ## 📝 Featured LinkedIn Posts & Articles  
 
-Here are a few of my favorite LinkedIn posts and reflections across Data Analytics, Business Analysis, Agile, and Career Growth:  
+Here are a few of my favorite LinkedIn posts and reflections across Business Analysis and other areas:  
 
 [![Assertive Communication](https://img.shields.io/badge/Assertive%20Communication%3A%20The%20Secret%20to%20Workplace%20Harmony-0A66C2?style=for-the-badge)](https://www.linkedin.com/posts/nitinkunigal_careergrowth-professionalskills-workplacetips-activity-7271759917437403136-lbyN/)  
 *Assertiveness isn’t about being loud - it’s about expressing ideas confidently while respecting others. A must-have for Analysts working with stakeholders.*  
