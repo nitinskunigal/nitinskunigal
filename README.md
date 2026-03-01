@@ -1,27 +1,29 @@
 <p align="center">
-  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn%20Banner%20(GitHub)_Business%20Analyst.png?raw=true" alt="Nitin Kunigal | Business Analyst" />
+  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn%20Banner%20(GitHub)_Business%20Analyst1.png?raw=true" alt="Nitin Kunigal | Business Analyst" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Business Analyst | Problem Solver | Data-Driven Inventory Operations & Execution Workflow Optimization | SQL, Databricks, Power BI, Advanced Excel, JIRA | Supply Chain & Logistics
+  Business Analyst | Improving Inventory Operations & Execution Workflows through Data | Advanced Excel, SQL, Power BI | Draw.io, JIRA, Confluence | Supply Chain & Logistics | Abstract Art Enthusiast
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I'm Nitin Kunigal. My background is rooted in the high-velocity world of 𝟯𝗣𝗟 𝗦𝘂𝗽𝗽𝗹𝘆 𝗖𝗵𝗮𝗶𝗻, where I worked closely with Inbound and Outbound teams. 
+Hi there! I'm Nitin Kunigal. My professional journey is rooted in the high-velocity world of 𝟯𝗣𝗟 𝗦𝘂𝗽𝗽𝗹𝘆 𝗖𝗵𝗮𝗶𝗻, where I worked on the front lines of Inbound and Outbound operations.
 
-In that role, I witnessed how execution gaps and manual KPI reporting caused inventory inaccuracies and firefighting. I addressed this issue by 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗻𝗴 𝗿𝗲𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄 𝘂𝘀𝗶𝗻𝗴 𝗘𝘅𝗰𝗲𝗹 𝗣𝗼𝘄𝗲𝗿 𝗤𝘂𝗲𝗿𝘆 to bridge the gap between WMS data and on-the-floor reality, providing supervisors with the visibility needed to clear operational bottlenecks before they escalated.
+In that role, I saw firsthand how execution gaps and manual reporting created "blind spots" in inventory health. I addressed this by 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗻𝗴 𝗿𝗲𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 𝘂𝘀𝗶𝗻𝗴 𝗣𝗼𝘄𝗲𝗿 𝗤𝘂𝗲𝗿𝘆, bridging the gap between WMS data and warehouse reality to clear operational bottlenecks before they escalated.
 
-That experience sparked my 𝘁𝗿𝗮𝗻𝘀𝗶𝘁𝗶𝗼𝗻 𝗶𝗻𝘁𝗼 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀. I am fascinated by how data can be used to diagnose operational risk and design more resilient execution workflows. To bridge this transition, I recently completed an 𝗲𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝗜𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗺𝗲𝗻𝘁 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 for a simulated e-grocery retailer, where I 𝗰𝗼𝗺𝗯𝗶𝗻𝗲𝗱 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗮𝗻𝗱 𝗱𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 instead of treating them as separate disciplines. The data analysis phase diagnosed issues such as overselling SKUs, uneven inventory distribution, and throughput imbalance, while the business analysis phase translated those signals into designing future-state processes and system-directed workflows to create a roadmap for operational excellence.
+This sparked my 𝘁𝗿𝗮𝗻𝘀𝗶𝘁𝗶𝗼𝗻 𝗶𝗻𝘁𝗼 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀. I became fascinated by how data can diagnose operational risk and inform the design of resilient workflows. To anchor this transition, I recently led an 𝗲𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝗜𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗺𝗲𝗻𝘁 𝗕𝗔 𝗶𝗻𝗶𝘁𝗶𝗮𝘁𝗶𝘃𝗲. I used 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 to diagnose issues like SKU-level overselling and throughput imbalances, then translated those signals into 𝗱𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗳𝘂𝘁𝘂𝗿𝗲-𝘀𝘁𝗮𝘁𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗺𝗮𝗽𝘀 𝗮𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺-𝗱𝗶𝗿𝗲𝗰𝘁𝗲𝗱 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 that prioritize execution discipline over costly software overhauls.
 
-Through this work, I developed a clear perspective: data analysis is most powerful when it informs business analysis, and business analysis is most effective when it is grounded in operational reality. I also complemented this with a 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗕𝗜 𝗽𝗿𝗼𝗷𝗲𝗰𝘁, 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮 𝗗𝗮𝘁𝗮 𝗟𝗮𝗸𝗲𝗵𝗼𝘂𝘀𝗲 𝗶𝗻 𝗗𝗮𝘁𝗮𝗯𝗿𝗶𝗰𝗸𝘀 𝘂𝘀𝗶𝗻𝗴 𝗠𝗲𝗱𝗮𝗹𝗹𝗶𝗼𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝗶𝘁 𝘁𝗼 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜, solidifying my end-to-end understanding of how business questions translate into scalable reporting and decision support.
+I believe data is most powerful when it informs business logic, and business analysis is most effective when grounded in operational reality. I’ve complemented this 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗕𝗜 𝗽𝗿𝗼𝗷𝗲𝗰𝘁, 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮 𝗗𝗮𝘁𝗮 𝗟𝗮𝗸𝗲𝗵𝗼𝘂𝘀𝗲 𝗶𝗻 𝗗𝗮𝘁𝗮𝗯𝗿𝗶𝗰𝗸𝘀 (𝗠𝗲𝗱𝗮𝗹𝗹𝗶𝗼𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲) 𝗮𝗻𝗱 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝗶𝘁 𝘁𝗼 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜, solidifying my end-to-end understanding of how business questions translate into scalable reporting and decision support. I've never written a single line of code before, so I used SQL (instead of Python) in this project.😊
 
-Today, I bring a blend of operational domain knowledge, structured problem-solving, and data-driven thinking. I’m particularly interested in roles where analytics supports execution improvement, process clarity, and measurable business outcomes within 𝗦𝘂𝗽𝗽𝗹𝘆 𝗖𝗵𝗮𝗶𝗻 & 𝗟𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀 (𝗥𝗲𝘁𝗮𝗶𝗹/ 𝗘-𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲).
+Outside of the "structured thinking" required for Supply Chain, I am an 𝗔𝗯𝘀𝘁𝗿𝗮𝗰𝘁 𝗔𝗿𝘁 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁. I find that the ability to find patterns in abstract art is not unlike finding clarity in complex operational data i.e., both require looking past the noise to find the underlying structure.
 
-If you’re working on problems that sit at the intersection of operations, data, and decision-making, I’d be glad to connect with you and discuss how I can add value to your organization.
+Today, I bring a blend of 𝗱𝗼𝗺𝗮𝗶𝗻 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲, 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝗔 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲, and 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴. I’m particularly interested in roles where analytics drives measurable organizational value within 𝗦𝘂𝗽𝗽𝗹𝘆 𝗖𝗵𝗮𝗶𝗻 & 𝗟𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀 (𝗥𝗲𝘁𝗮𝗶𝗹/𝗘-𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲/𝗠𝗮𝗻𝘂𝗳𝗮𝗰𝘁𝘂𝗿𝗶𝗻𝗴).
+
+If you’re solving problems at the intersection of operations and data, let’s connect!
 
 Here's the Link to my [Value Proposition Video](https://share.vidyard.com/watch/y7Wb9ZHXFVxaJFvaSHdF92)
 
@@ -31,7 +33,7 @@ Here's the Link to my [Value Proposition Video](https://share.vidyard.com/watch/
 
 [![Business Analysis Project](https://img.shields.io/badge/Inventory%20Operations%20Enhancement:%20A%20BA%20Initiative-0A66C2?style=for-the-badge)](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-A-Business-Analysis-Initiative) [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-0A66C2?style=for-the-badge)](https://www.youtube.com/watch?v=Uiw5YCTmKbo) [![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiZmRmNGRhOGEtN2IyNi00ZWNjLTkxN2YtMmYyMzJhNzNhN2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Simulated e-Retailer | Connecting Business Analysis and Data Analysis | Gap Analysis, Process Mapping  
+Simulated e-Retailer | Designing Future-State Process Maps and System-Directed Workflows | Data Analysis, Process Modeling  
 • Core Objective: Eliminate execution gaps between physical inventory movement and system records.  
 • Process-Focused enhancement: The solution targets these five tightly connected processes. Breakdowns in these areas propagate downstream into fulfillment failures.  
 • Strategic Approach: This initiative avoids full system replacement and focuses on system-directed execution, automation at key control points, and exception-based human intervention aligned with company’s current operational maturity.  
