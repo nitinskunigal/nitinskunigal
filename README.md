@@ -1,29 +1,34 @@
 <p align="center">
-  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn%20Banner%20(GitHub)_Business%20Analyst1.png?raw=true" alt="Nitin Kunigal | Business Analyst" />
+  <img src="https://github.com/nitinskunigal/nitinskunigal/blob/main/docs/LinkedIn%20Banner%20(GitHub)_Supply%20Chain%20Professional.png?raw=true" alt="Nitin Kunigal | Business Analyst" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Nitin Kunigal</h1>
 <p align="center">
-  Business Analyst | Improving Inventory Operations & Execution Workflows through Data | Advanced Excel, SQL, Power BI | Draw.io, JIRA, Confluence | Supply Chain & Logistics | Abstract Art Enthusiast
+  Supply Chain Operations Professional | Inventory Control & Process Optimization | KPI Analysis & Execution Discipline | Advanced Excel, SQL, Power BI | 3PL Logistics
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I'm Nitin Kunigal. My professional journey is rooted in the high-velocity world of 𝟯𝗣𝗟 𝗦𝘂𝗽𝗽𝗹𝘆 𝗖𝗵𝗮𝗶𝗻, where I worked on the front lines of Inbound and Outbound operations.
+Hi there! I'm Nitin Kunigal. 
 
-In that role, I saw firsthand how execution gaps and manual reporting created "blind spots" in inventory health. I addressed this by 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗻𝗴 𝗿𝗲𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 𝘂𝘀𝗶𝗻𝗴 𝗣𝗼𝘄𝗲𝗿 𝗤𝘂𝗲𝗿𝘆, bridging the gap between WMS data and warehouse reality to clear operational bottlenecks before they escalated.
+My experience is rooted in 3PL supply chain operations, where I worked closely with inbound and outbound warehouse processes in a high-velocity environment. Being on the ground gave me a clear view of how small execution gaps, especially around inventory accuracy and reporting, can quickly scale into larger operational issues.
 
-This sparked my 𝘁𝗿𝗮𝗻𝘀𝗶𝘁𝗶𝗼𝗻 𝗶𝗻𝘁𝗼 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀. I became fascinated by how data can diagnose operational risk and inform the design of resilient workflows. To anchor this transition, I recently led an 𝗲𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝗜𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗺𝗲𝗻𝘁 𝗕𝗔 𝗶𝗻𝗶𝘁𝗶𝗮𝘁𝗶𝘃𝗲. I used 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 to diagnose issues like SKU-level overselling and throughput imbalances, then translated those signals into 𝗱𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗳𝘂𝘁𝘂𝗿𝗲-𝘀𝘁𝗮𝘁𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗺𝗮𝗽𝘀 𝗮𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺-𝗱𝗶𝗿𝗲𝗰𝘁𝗲𝗱 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 that prioritize execution discipline over costly software overhauls.
+In my role, I focused on improving visibility into these gaps by streamlining reporting workflows using Excel and Power Query. By connecting WMS data with day-to-day operations, I was able to reduce manual effort and bring more structure to how performance was tracked and understood.
 
-I believe data is most powerful when it informs business logic, and business analysis is most effective when grounded in operational reality. I’ve complemented this 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗕𝗜 𝗽𝗿𝗼𝗷𝗲𝗰𝘁, 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮 𝗗𝗮𝘁𝗮 𝗟𝗮𝗸𝗲𝗵𝗼𝘂𝘀𝗲 𝗶𝗻 𝗗𝗮𝘁𝗮𝗯𝗿𝗶𝗰𝗸𝘀 (𝗠𝗲𝗱𝗮𝗹𝗹𝗶𝗼𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲) 𝗮𝗻𝗱 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝗶𝘁 𝘁𝗼 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜, solidifying my end-to-end understanding of how business questions translate into scalable reporting and decision support. I don't know Python, so I used SQL in this project.😊
+That experience shaped how I think about operations today. I don’t just see data as a reporting layer. I see it as a way to understand execution, identify risks early, and design processes that actually work in real-world environments.
 
-Outside of the "structured thinking" required for Supply Chain, I am an 𝗔𝗯𝘀𝘁𝗿𝗮𝗰𝘁 𝗔𝗿𝘁 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁. I find that the ability to find patterns in abstract art is not unlike finding clarity in complex operational data i.e., both require looking past the noise to find the underlying structure.
+To deepen this approach, I worked on an end-to-end inventory operations enhancement initiative in a simulated retail setting. Using Power BI, I analyzed inventory health at a granular level and translated those insights into structured process improvements, including system-directed workflows and validation checkpoints designed to strengthen execution discipline.
 
-Today, I bring a blend of 𝗱𝗼𝗺𝗮𝗶𝗻 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲, 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝗔 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲, and 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴. I’m particularly interested in roles where analytics drives measurable organizational value within 𝗦𝘂𝗽𝗽𝗹𝘆 𝗖𝗵𝗮𝗶𝗻 & 𝗟𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀 (𝗥𝗲𝘁𝗮𝗶𝗹/𝗘-𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲/𝗠𝗮𝗻𝘂𝗳𝗮𝗰𝘁𝘂𝗿𝗶𝗻𝗴).
+Alongside this, I built a full-stack BI project to understand how data flows from source systems to decision-making layers. This helped me connect operational challenges with how data models, reporting structures, and metrics are actually built and used.
 
-If you’re solving problems at the intersection of operations and data, let’s connect!
+Today, I bring a combination of hands-on operations experience and analytical thinking, with a focus on inventory control, process optimization, and performance visibility within warehouse environments.
+
+I’m currently exploring opportunities across supply chain and logistics where I can contribute to improving operational execution through structured analysis and data-informed decision-making.
+
+If you’re working on solving real operational challenges, I’d be glad to connect.
+📬 Email: nitinkunigal@gmail.com
 
 Here's the Link to my [Value Proposition Video](https://share.vidyard.com/watch/y7Wb9ZHXFVxaJFvaSHdF92)
 
@@ -52,10 +57,10 @@ Data Pipeline orchestration is setup and Power BI connects directly to the Gold 
 
 ## 🧰 Skills
 
-**Data Analysis & BI:** Power BI, Advanced Excel (Power Query), Data Cleaning, Data Modeling, Data Visualization  
-**Data Engineering (Basics):** SQL, SQL Server, Databricks, ETL/ ELT Concepts, Date Warehousing, Data Lakehouse   
-**Business Analysis:** Process Mapping, Root Cause Analysis, Requirements Management, Stakeholder Management   
-**Other Tools & Skills:** Draw.io, JIRA, Confluence, GitHub, Notion, n8n, Agile (Scrum, Kanban), SDLC
+**Supply Chain & Operations:** Inventory Control, Cycle Counting, Inventory Reconciliation, KPI Reporting, Warehouse Processes, WMS  
+**Data Analysis & BI:** Advanced Excel (Power Query), SQL (MSSQL), Power BI (DAX), Data Modeling, Data Visualization   
+**Business Analysis:** Process Modeling (BPMN 2.0), Requirements Gathering, Root Cause Analysis, Stakeholder Collaboration, Agile, Draw.io, JIRA
+**Data Fundamentals:** Databricks (Basics), ETL/ ELT Concepts, Data Warehousing, Data Lakehouse, GitHub
 
 ---
 
